@@ -6,10 +6,9 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-kevinmaexx@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinmaexx@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-monyverse-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-manx393s-projects.vercel.app)
+[![Email](https://img.shields.io/badge/Email-manx393@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manx393@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-thabang.dev-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-manx393s-projects.vercel.app/)
 [![HashProtocol](https://img.shields.io/badge/Hash%20Protocol-Team-8B5CF6?style=for-the-badge&logo=ethereum&logoColor=white)](http://hashprotocol.io/team)
-[![Monyverse](https://img.shields.io/badge/Blog-Monyverse.xyz-10B981?style=for-the-badge&logo=hashnode&logoColor=white)](https://Monyverse.xyz)
 
 </div>
 
@@ -24,6 +23,7 @@ I'm a **AI/Web3 Engineer & Co-Founder** based in San Francisco 🌉, with roots 
 - 🤖 Applied AI: agentic systems, zkML (verifiable ML), and AI-powered DeFi protocols
 - 🌍 Co-Founder of **[Vsites](https://vsites.co.za)** — agentic growth marketing for Fortune 500 teams
 - 💬 Ask me about: ZK proofs, EVM/ERC-4337, DeFi protocol design, zkML, cross-chain interoperability
+- 📫 Reach me at: **manx393@gmail.com**
 
 ---
 
