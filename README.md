@@ -34,9 +34,9 @@ I'm a **AI/Web3 Engineer & Co-Founder** based in San Francisco 🌉, with roots 
 |---------|-------------|-------|
 | [**zkml-linear-regression**](https://github.com/monyverse/zkml-linear-regression) | Zero-knowledge verifiable ML regression — proving ML inference without revealing inputs | Python · EZKL · Halo2 |
 | [**AA-Scroll**](https://github.com/monyverse/AA-Scroll) | ERC-4337 Account Abstraction implementation on Scroll zkEVM — gasless txs, social recovery, batch ops | Solidity · Scroll · Hardhat |
-| [**awesome-zero-knowledge**](https://github.com/monyverse/awesome-zero-knowledge) | Curated deep-dive reference list for ZK proofs, circuits, and proof systems | ZK · Circom · Halo2 · Groth16 |
-| [**awesome-account-abstraction**](https://github.com/monyverse/awesome-account-abstraction) | Curated EIP-4337 resources — bundlers, paymasters, smart wallets, and SDKs | ERC-4337 · EntryPoint |
-| [**awesome-blockchain-ai**](https://github.com/monyverse/awesome-blockchain-ai) | Curated intersection of blockchain, AI agents, and decentralized intelligence | AI · Web3 · Agents |
+| [**tg-defai-agent**](https://github.com/zkbuilder301/tg-defai-agent) | AI-driven DeFi assistant on Mantle via Telegram. Automates swapping and portfolio management. | TypeScript · Mantle · OpenAI |
+| [**telepay_contracts**](https://github.com/zkbuilder301/telepay_contracts) | Cross-chain USD transfer system for Telegram via Circle's CCTP. Built with Foundry. | Solidity · Foundry · CCTP |
+| [**fevm-hardhat-kit**](https://github.com/monyverse/fevm-hardhat-kit) | Developer toolkit and deployment scripts for building decentralized storage on Filecoin's FEVM. | Solidity · Hardhat · FEVM |
 
 ### 🏗️ DeFi & Exchange Infrastructure
 | Project | Description | Stack |
